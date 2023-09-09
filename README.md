@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ### Blog
 
+- 9 Sep 2023. 📚🔍 [**On Information Retrieval Systems**](https://donets.org/blog/on-information-retrieval-6fd3f523/)
 - 24 Jul 2023. 📝 [**Prompt design for Large Language Models**](https://donets.org/blog/llm-prompt-design-0537c046/)
 - 14 Jul 2023. 📐 [**Large Language Models in Regulated Industries**](https://donets.org/blog/llms-in-regulated-industries-6cd40146/)
 - 18 Jun 2023. 🚄 [**Making Code Efficient with LLMs. Part 2**](https://donets.org/blog/enhancing-python-code-efficiency-with-large-language-models-a-review-and-refactoring-journey-with-pyentropy-library-8d42f3c1/)
 - 9 Jun 2023. 🚄 [**Making Code Efficient with LLMs. Part 1**](https://donets.org/blog/improving-the-efficiency-of-python-code-with-bard-llm-and-chatgpt-e8db8dcd/)
 - 16 Apr 2022. 🔤 [**ABC and XYZ Analysis for Product Development**](https://donets.org/blog/inventory-management-technics-for-product-management-96606e39/)
-- 11 Jul 2019. 😶 [**Are facial recognition systems so bad?**](https://donets.org/blog/are-facial-recognition-systems-so-bad-5586c8be/)
+- 11 Jul 2019. 🤔 [**Are facial recognition systems so bad?**](https://donets.org/blog/are-facial-recognition-systems-so-bad-5586c8be/)
 - 25 May 2019. 🆎 [**Mindmap on A/B tests designing and experiments**](https://donets.org/blog/mindmap-on-ab-tests-designing-and-experiments-a6ee153c/)
 
 ### Apps
