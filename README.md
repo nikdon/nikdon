@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [**Nikolay Donets**](https://donets.org/) I'm an engineer and a hobby application developer.
+Welcome! I'm [**Nikolay Donets**](https://donets.org/). I'm passionate about Computer Science and Software Engineering, I bring a user-focused, hands-on approach to my work. I've worked on various projects, always eager to learn and grow. My greatest joy is personal and professional growth while delivering value to users. I thrive on expanding my skills to make a positive impact.
 
 <!--
 **nikdon/nikdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
