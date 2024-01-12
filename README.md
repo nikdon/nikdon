@@ -30,4 +30,8 @@ Here are some ideas to get you started:
 
 ### Apps
 
-🍎 [**Calculator 42 with History PRO**](https://apps.apple.com/app/apple-store/id1525901717?pt=121920911&ct=donets&mt=8)
+🍎📱 [**Calculator 42 with History PRO**](https://apps.apple.com/app/apple-store/id1525901717?pt=121920911&ct=donets&mt=8)
+
+### GPTs
+
+🐞 [**Buggy**](https://chat.openai.com/g/g-KXKURSaa3-buggy) – an expert at crafting bug reports
