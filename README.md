@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Blog
 
 - 30 Jan 2024. 🌏🔬 [**GEMBA for Machine Translation tasks**](https://www.donets.org/blog/gemba-for-machine-translation-31cb79f3/)
-- 20 Jan 2024. 📖🤖 [**Review. Guidance – Generative AI Framework for HMG**](https://donets.org/blog/guidance-generative-ai-framework-for-hmg-3fa47cba/)
+- 20 Jan 2024. 📖🤖 [**Review of 'Guidance – Generative AI Framework for HMG'**](https://donets.org/blog/guidance-generative-ai-framework-for-hmg-3fa47cba/)
 -  9 Sep 2023. 📚🔍 [**On Information Retrieval Systems**](https://donets.org/blog/on-information-retrieval-6fd3f523/)
 - 24 Jul 2023. 📝 [**Prompt design for Large Language Models**](https://donets.org/blog/llm-prompt-design-0537c046/)
 - 14 Jul 2023. 📐 [**Large Language Models in Regulated Industries**](https://donets.org/blog/llms-in-regulated-industries-6cd40146/)
