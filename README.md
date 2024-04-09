@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Blog
 
+-  7 Apr 2024. 💡🎯 [**Self-Generated In-Context Learning Explained**](https://donets.org/blog/self-generated-in-context-learning-8e8233a4/)
 - 14 Mar 2024. ⚔️🤖 [**Attacks on Large Language Models and LLM-based Services**](https://donets.org/blog/attacks-on-large-language-models-and-llm-based-services-2a3c3f95/)
 - 30 Jan 2024. 🌏🔬 [**GEMBA for Machine Translation tasks**](https://donets.org/blog/gemba-for-machine-translation-31cb79f3/)
 - 20 Jan 2024. 📖🤖 [**Review of 'Guidance – Generative AI Framework for HMG'**](https://donets.org/blog/guidance-generative-ai-framework-for-hmg-3fa47cba/)
