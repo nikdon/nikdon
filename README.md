@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Projects
+
+- 🌐🛡️ [**AI Risk Intelligence Hub**](https://donets.org/risks). Confidently navigate artificial intelligence risks with a continuously updated database built on the latest research and comprehensive literature reviews.
+
 ### Blog
 
 -  7 Apr 2024. 💡🎯 [**Self-Generated In-Context Learning Explained**](https://donets.org/blog/self-generated-in-context-learning-8e8233a4/)
@@ -35,7 +39,3 @@ Here are some ideas to get you started:
 ### Apps
 
 🍎📱 [**Calculator 42 with History PRO**](https://apps.apple.com/app/apple-store/id1525901717?pt=121920911&ct=donets&mt=8)
-
-### GPTs
-
-🐞 [**Buggy**](https://chat.openai.com/g/g-KXKURSaa3-buggy) – an expert at crafting bug reports
