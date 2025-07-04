@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ### Blog
 
+-  2 Jul 2025. 🚀🛡️ [**Navigating the GenAI Paradox: A Framework for Speed and Safety in FinTech**](https://donets.org/blog/framework-for-speed-and-safety-in-fintech)
 -  7 Apr 2024. 💡🎯 [**Self-Generated In-Context Learning Explained**](https://donets.org/blog/self-generated-in-context-learning-8e8233a4/)
 - 14 Mar 2024. ⚔️🤖 [**Attacks on Large Language Models and LLM-based Services**](https://donets.org/blog/attacks-on-large-language-models-and-llm-based-services-2a3c3f95/)
 - 30 Jan 2024. 🌏🔬 [**GEMBA for Machine Translation tasks**](https://donets.org/blog/gemba-for-machine-translation-31cb79f3/)
