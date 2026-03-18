@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Projects
 
 - 🌐🛡️ [**AI Risk Intelligence Hub**](https://donets.org/risks). Confidently navigate artificial intelligence risks with a continuously updated database built on the latest research and comprehensive literature reviews.
+- 🧿🚀 [**NotProse**](https://donets.org/connect). Structured data on real-world failure modes for agentic systems to ship reliable software at velocity
 
 ### Blog
 
