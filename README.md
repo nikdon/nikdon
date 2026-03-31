@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Projects
 
-- 🌐🛡️ [**AI Risk Intelligence Hub**](https://donets.org/risks). Confidently navigate artificial intelligence risks with a continuously updated database built on the latest research and comprehensive literature reviews.
-- 🧿🚀 [**NotProse**](https://donets.org/connect). Structured data on real-world failure modes for agentic systems to ship reliable software at velocity
+- 🌐🛡️ [**Donets Risk Intelligence**](https://donets.org). Peer-reviewed AI risk intelligence for design reviews, launch decisions, and live operations.
+- 🧿🚀 [**Donets Risk Intelligence MCP**](https://donets.org/connect). AI risk intelligence for systems that act.
 
 ### Blog
 
