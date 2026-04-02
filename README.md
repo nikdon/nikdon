@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Projects
 
-- 🌐🛡️ [**Donets Risk Intelligence**](https://donets.org). Peer-reviewed AI risk intelligence for design reviews, launch decisions, and live operations.
-- 🧿🚀 [**Donets Risk Intelligence MCP**](https://donets.org/connect). AI risk intelligence for systems that act.
+- 🌐🛡️ [**AI Risk Intelligence**](https://donets.org). Peer-reviewed AI risk intelligence for design reviews, launch decisions, and live operations.
+- 🧿🚀 [**AI Risk Intelligence MCP**](https://donets.org/connect). AI risk intelligence for systems that act.
 
 ### Blog
 
