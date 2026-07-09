@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 - 11 Jul 2019. [**Are facial recognition systems so bad?**](https://donets.org/writing/are-facial-recognition-systems-so-bad)
 - 25 May 2019. [**Mindmap on A/B tests designing and experiments**](https://donets.org/writing/mindmap-on-ab-tests-designing-and-experiments)
 
-Also: [**Calculator 42 with History PRO**](https://iOS utility.
+Also: [**Calculator 42 with History PRO**](https://calculator42.com/) — a small iOS utility.
