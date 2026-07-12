@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 26 Jun 2024. 🚀🛡️ [**A framework for 90-day AI product launches**](https://donets.org/talks/innovators-guild)
 - 13 Jun 2023. 📐🤖 [**Large Language Models in Regulated Industries**](https://donets.org/talks/llms-in-regulated-industries)
 
-### Writing — AI & LLMs (2023–2025)
+### Writing - AI & LLMs (2023–2025)
 
 -  2 Jul 2025. [**Navigating the GenAI Paradox: A Framework for Speed and Safety in FinTech**](https://donets.org/writing/framework-for-speed-and-safety-in-fintech)
 -  7 Apr 2024. [**Self-Generated In-Context Learning Explained**](https://donets.org/writing/self-generated-in-context-learning)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 18 Jun 2023. [**Making Code Efficient with LLMs. Part 2**](https://donets.org/writing/enhancing-python-code-efficiency-with-large-language-models-a-review-and-refactoring-journey-with-pyentropy-library)
 -  9 Jun 2023. [**Making Code Efficient with LLMs. Part 1**](https://donets.org/writing/improving-the-efficiency-of-python-code-with-bard-llm-and-chatgpt)
 
-### Writing — earlier (2019–2022)
+### Writing - earlier (2019–2022)
 
 - 16 Apr 2022. [**ABC and XYZ Analysis for Product Development**](https://donets.org/writing/inventoryuct-management)
 - 11 Jul 2019. [**Are facial recognition systems so bad?**](https://donets.org/writing/are-facial-recognition-systems-so-bad)
