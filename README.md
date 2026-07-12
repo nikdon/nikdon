@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Talks
 
 - 12 Jun 2026. 🏗️🤖 [**After the model: Building one AI platform**](https://youtu.be/ueSn7zTDDWY)
-- 16 May 2025. 🏃💡 **AI Rush** — no dedicated page, see [Talks](https://donets.org/talks)
+- 16 May 2025. 🏃💡 **AI Rush**
 - 26 Jun 2024. 🚀🛡️ [**A framework for 90-day AI product launches**](https://donets.org/talks/innovators-guild)
 - 13 Jun 2023. 📐🤖 [**Large Language Models in Regulated Industries**](https://donets.org/talks/llms-in-regulated-industries)
 
